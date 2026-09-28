@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/packblob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pack numeric blob values, ranges, and human-readable units.",
+  "bin": {
+    "packblob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/packblob.git"
+  },
+  "homepage": "https://theworker02.github.io/packblob/",
+  "keywords": [
+    "pack",
+    "blob",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
